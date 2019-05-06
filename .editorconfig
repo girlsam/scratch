@@ -1,0 +1,11 @@
+root = true
+
+# newlines
+end_of_line = lf
+insert_final_newline = true
+
+# default charset
+chartset = utf-8
+
+# tab indentation
+indent_style = tab
