@@ -1,0 +1,283 @@
+{
+  "collections": [
+    {
+      "collection": {
+        "collection_id": 1,
+        "res_count": 30,
+        "image_url": "https://b.zmtcdn.com/data/collections/b53772a204429cb9b42313d6dc22bf3c_1556018415.jpg",
+        "url": "https://www.zomato.com/denver/top-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Trending This Week",
+        "description": "Most popular restaurants in town this week",
+        "share_url": "http://www.zoma.to/c-305/1"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 678,
+        "res_count": 17,
+        "image_url": "https://b.zmtcdn.com/data/collections/1f1c456df81c2bf24a2b296a41647dd4_1440403602_l.jpg",
+        "url": "https://www.zomato.com/denver/mile-high-munchies?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Mile high munchies",
+        "description": "The best place to satiate those *ahem* cravings",
+        "share_url": "http://www.zoma.to/c-305/678"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 112,
+        "res_count": 14,
+        "image_url": "https://b.zmtcdn.com/data/collections/d54df30563212e846bf79dd1ba0f1de4_1419918252_l.jpg",
+        "url": "https://www.zomato.com/denver/best-pizza-spots?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Upper Crust",
+        "description": "For the delicious, cheesy mess you love.",
+        "share_url": "http://www.zoma.to/c-305/112"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 22,
+        "res_count": 18,
+        "image_url": "https://b.zmtcdn.com/data/collections/b1eb0d5826a9286150fa3438095fcd93_1538393788.jpg",
+        "url": "https://www.zomato.com/denver/best-coffee?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Great Coffee",
+        "description": "Caffeinate away with that perfect cup of cappuccino, mocha or latte from some of the best coffee spots",
+        "share_url": "http://www.zoma.to/c-305/22"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 48,
+        "res_count": 17,
+        "image_url": "https://b.zmtcdn.com/data/collections/3348431bcaa616e6cd3ccadc95ceca63_1427263670_l.jpg",
+        "url": "https://www.zomato.com/denver/seafood?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Super Seafood",
+        "description": "The best seafood places in town",
+        "share_url": "http://www.zoma.to/c-305/48"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 47,
+        "res_count": 29,
+        "image_url": "https://b.zmtcdn.com/data/collections/25c5f1b5770669e57362c08154e92090_1438661776_l.jpg",
+        "url": "https://www.zomato.com/denver/steakhouses?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Steakhouses",
+        "description": "Medium-rare? Well-done? Steak your pick.",
+        "share_url": "http://www.zoma.to/c-305/47"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 125,
+        "res_count": 23,
+        "image_url": "https://b.zmtcdn.com/data/collections/b386fe9dca9543d888e43fb8d3425436_1477292962.jpg",
+        "url": "https://www.zomato.com/denver/weekend-brunch?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Weekend Brunches",
+        "description": "Sit back, enjoy a wide spread and forget that a new work week is sneaking up on you",
+        "share_url": "http://www.zoma.to/c-305/125"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 306,
+        "res_count": 20,
+        "image_url": "https://b.zmtcdn.com/data/collections/f64e0eec7b7094ad8878fce3ca275ce9_1441179307_l.jpg",
+        "url": "https://www.zomato.com/denver/dive-bars?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Dive bars",
+        "description": "Go drinking at the city's best watering holes",
+        "share_url": "http://www.zoma.to/c-305/306"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 77,
+        "res_count": 19,
+        "image_url": "https://b.zmtcdn.com/data/collections/1617185c6c7ff5b2a5c54f130dcb58ef_1435909914_l.jpg",
+        "url": "https://www.zomato.com/denver/mexican-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Mexican Magic",
+        "description": "Places to enjoy a fiesta of flavor",
+        "share_url": "http://www.zoma.to/c-305/77"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 5,
+        "res_count": 16,
+        "image_url": "https://b.zmtcdn.com/data/collections/d38669ed7b829ceb2814678420a629da_1560353561.jpg",
+        "url": "https://www.zomato.com/denver/best-burger?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Kickass Burgers",
+        "description": "Chow down on a cheeselicious burger!",
+        "share_url": "http://www.zoma.to/c-305/5"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 65,
+        "res_count": 19,
+        "image_url": "https://b.zmtcdn.com/data/collections/73391cc46aa0d33d5c5cf3bd09981bc6_1469073198.jpg",
+        "url": "https://www.zomato.com/denver/sushi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Super Sushi",
+        "description": "Classic maki-style rolls, sashimi or nigiri sushi, hit up these spots for your favourite Japanese snack ",
+        "share_url": "http://www.zoma.to/c-305/65"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 339,
+        "res_count": 17,
+        "image_url": "https://b.zmtcdn.com/data/collections/67c4acc3f607dbcff71a8e1e77a70c8a_1535469199.jpg",
+        "url": "https://www.zomato.com/denver/happy-hours?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Happy Hours",
+        "description": "Great deals on booze. Happy hours indeed",
+        "share_url": "http://www.zoma.to/c-305/339"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 446,
+        "res_count": 16,
+        "image_url": "https://b.zmtcdn.com/data/collections/0707137915a22b40b4d5e8274f47d791_1427179044_l.jpg",
+        "url": "https://www.zomato.com/denver/breweries?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Badass breweries",
+        "description": "Sometimes, bottled beer just doesn't cut it",
+        "share_url": "http://www.zoma.to/c-305/446"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 45,
+        "res_count": 23,
+        "image_url": "https://b.zmtcdn.com/data/collections/84dc27311ac4e82075d3c1ce0a9da27b_1442320692_l.jpg",
+        "url": "https://www.zomato.com/denver/gluten-free-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Gluten-free",
+        "description": "Places serving the best gluten-free food.",
+        "share_url": "http://www.zoma.to/c-305/45"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 428,
+        "res_count": 16,
+        "image_url": "https://b.zmtcdn.com/data/collections/4207b2649f8f10776e593f2a31d12fcd_1445246191_l.jpg",
+        "url": "https://www.zomato.com/denver/best-bbq?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Best BBQ",
+        "description": "Smoky, saucy, meaty. BBQ needs to be its own food group",
+        "share_url": "http://www.zoma.to/c-305/428"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 432,
+        "res_count": 17,
+        "image_url": "https://b.zmtcdn.com/data/collections/925f72ebbd66725f3ad9af4eda0ef251_1537416010.jpg",
+        "url": "https://www.zomato.com/denver/artisan-cocktails?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Artisan Cocktails",
+        "description": "Inebriation is fine, but it's fun to do it in style once in a while",
+        "share_url": "http://www.zoma.to/c-305/432"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 285,
+        "res_count": 12,
+        "image_url": "https://b.zmtcdn.com/data/collections/dd0048f5ef6019eb457ecde8a9c86c2d_1442319341_l.jpg",
+        "url": "https://www.zomato.com/denver/vegan-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Vegan's choice",
+        "description": "Go all out & treat yourself with the best of vegan food in town",
+        "share_url": "http://www.zoma.to/c-305/285"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 482,
+        "res_count": 27,
+        "image_url": "https://b.zmtcdn.com/data/collections/55e3f0e8bb87a8f5a35eeabfb5266477_1439871156_l.jpg",
+        "url": "https://www.zomato.com/denver/patio-dining?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Prime patios",
+        "description": "Enjoy a lovely al fresco dinner at these stunning patio restaurants",
+        "share_url": "http://www.zoma.to/c-305/482"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 8,
+        "res_count": 16,
+        "image_url": "https://b.zmtcdn.com/data/collections/52d2ea4a19bee4d876e42d14574b2508_1427378290_l.jpg",
+        "url": "https://www.zomato.com/denver/hidden-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Hidden Gems",
+        "description": "The definitive list of hidden gems you need to try",
+        "share_url": "http://www.zoma.to/c-305/8"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 544,
+        "res_count": 10,
+        "image_url": "https://b.zmtcdn.com/data/collections/10dcdac2c6d08f9bae81b04042c34544_1435914997_l.jpg",
+        "url": "https://www.zomato.com/denver/game-cafes-bars?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Stay & play",
+        "description": "Some entertainment to go with the nourishment",
+        "share_url": "http://www.zoma.to/c-305/544"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 429,
+        "res_count": 17,
+        "image_url": "https://b.zmtcdn.com/data/collections/52ddbf4038db984190ddb910311225e9_1426837329_l.jpg",
+        "url": "https://www.zomato.com/denver/farm-to-table?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Farm-to-table",
+        "description": "Organic, healthy and all natural food, from the fields straight to your plate",
+        "share_url": "http://www.zoma.to/c-305/429"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 207,
+        "res_count": 15,
+        "image_url": "https://b.zmtcdn.com/data/collections/07462839e697e1e78c28dd4013d323a6_1442300754_l.jpg",
+        "url": "https://www.zomato.com/denver/best-pho?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Restaurants Serving Pho",
+        "description": "Hit up these places for some of the best soul warming Vietnamese noodle soup - Pho!",
+        "share_url": "http://www.zoma.to/c-305/207"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 40,
+        "res_count": 24,
+        "image_url": "https://b.zmtcdn.com/data/collections/aaa0ee598b2f745d9c184d9bf92412d3_1535696201.jpg",
+        "url": "https://www.zomato.com/denver/dessert-places?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Sweet Tooth",
+        "description": "From cookies and doughnuts to ice cream and cakes, knock yourself out with these classic and creative desserts ",
+        "share_url": "http://www.zoma.to/c-305/40"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 35,
+        "res_count": 13,
+        "image_url": "https://b.zmtcdn.com/data/collections/b5a5caace052be929d9829d32ae1c591_1441697242_l.jpg",
+        "url": "https://www.zomato.com/denver/ramen-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Ramen",
+        "description": "The city's best ramen, and more!",
+        "share_url": "http://www.zoma.to/c-305/35"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 152,
+        "res_count": 15,
+        "image_url": "https://b.zmtcdn.com/data/collections/1fd38e391be7d86d1518ae8272cbaa21_1418395147_l.jpg",
+        "url": "https://www.zomato.com/denver/restaurant-with-view?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Restaurants With A View",
+        "description": "Eat, drink and enjoy the most beautiful views the city has to offer",
+        "share_url": "http://www.zoma.to/c-305/152"
+      }
+    }
+  ],
+  "has_more": 0,
+  "share_url": "http://www.zoma.to/c-305",
+  "display_text": "OR EXPLORE OUR COLLECTIONS",
+  "has_total": 0
+}

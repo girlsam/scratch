@@ -1,4 +1,3 @@
-* {
-  background-color: lavender;
-  text-align: center;
-}
+@import 'global/variables';
+@import 'global/settings';
+@import 'global/app';
