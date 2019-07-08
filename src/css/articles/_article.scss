@@ -1,4 +1,14 @@
-img {
-  height: 7rem;
-  width: 7rem;
+.article-item {
+  a {
+    display: block;
+  }
+
+  img {
+    height: 10rem;
+    width: 10rem;
+  }
+
+  p {
+    font-size: $font-size-small;
+  }
 }

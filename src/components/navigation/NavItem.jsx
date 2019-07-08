@@ -1,15 +1,18 @@
 import React, { useState } from 'react';
 
 const NavItem = ({ title, link }) => {
-  const [activeInput, setActiveState ] = useState(false);
+  const [activeItem, setActiveState] = useState(false);
 
   const handleClick = (e) => {
-    setActiveState(true);
+    e.preventDefault();
+    return activeItem
+      ? setActiveState(false)
+      : setActiveState(true);
   }
 
   return (
     <a
-      className={ activeInput ? 'active' : 'inactive' }
+      className={ activeItem ? 'active' : 'inactive' }
       href="/"
       onClick={ e => handleClick(e) }
     >
