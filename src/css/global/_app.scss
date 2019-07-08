@@ -3,3 +3,17 @@ main {
     text-align: center;
   }
 }
+
+a {
+  text-decoration: none;
+  color: $primary-color;
+  padding-right: 1rem;
+
+  &:hover {
+    color: $accent-set-color;
+  }
+
+  &.active {
+    text-decoration: underline;
+  }
+}
