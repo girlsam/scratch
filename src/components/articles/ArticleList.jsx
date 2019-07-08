@@ -3,9 +3,9 @@ import React from 'react';
 import ArticleItem from 'Components/articles/ArticleItem';
 
 const ArticleList = ({ articles }) => (
-  articles.collections.map((article) => (
+  articles.map((article) => (
     <ArticleItem
-      key={ article.collection.key }
+      key={ article.collection_id }
       article={ article }
     />
   ))
